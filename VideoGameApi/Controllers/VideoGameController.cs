@@ -1,5 +1,7 @@
-﻿  using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using VideoGameApi.Entities;
+using VideoGameApi.Services.Interfaces;
 
 namespace VideoGameApi.Controllers
 {
@@ -7,75 +9,59 @@ namespace VideoGameApi.Controllers
     [ApiController]
     public class VideoGameController : ControllerBase
     {
-        static private List<VideoGame> videoGames = new List<VideoGame>
-        {
-            new VideoGame
-            {
-                Id = 1,
-                Title = "Spider-Man 2",
-                Platform= "PS5",
-                Developer="Insomniac Games",
-                Publisher="Sony Interative Entertainment"
-            }
-        };
+        private readonly IVideoGameService _videoGameService;
 
-        [HttpGet]
-        public ActionResult<List<VideoGame>> GetVideoGames()
+        public VideoGameController(IVideoGameService videoGameService)
         {
-            return Ok(videoGames);
+            _videoGameService = videoGameService;
         }
 
+        [Authorize]
         [HttpGet]
-        [Route("{id}")]
-        public ActionResult<VideoGame> GetVideoGameById(int id)
+        public async Task<ActionResult<List<VideoGame>>> GetVideoGames()
         {
-            var game = videoGames.FirstOrDefault(g => g.Id == id);
-            if (game is null) return NotFound();
+            var games = await _videoGameService.GetAllAsync();
+            return Ok(games);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<VideoGame>> GetVideoGameById(int id)
+        {
+            var game = await _videoGameService.GetByIdAsync(id);
+            if (game == null)
+                return NotFound();
+
             return Ok(game);
         }
 
         [HttpPost]
-        public ActionResult<VideoGame> AddVideoGame(VideoGame newVideoGame)
-            {
-            if (newVideoGame is null)
+        public async Task<ActionResult<VideoGame>> AddVideoGame(VideoGame newVideoGame)
+        {
+            if (newVideoGame == null)
                 return BadRequest();
 
-            newVideoGame.Id = videoGames.Max(g => g.Id) + 1;
-            videoGames.Add(newVideoGame);
-            return CreatedAtAction(nameof(GetVideoGameById), new { id= newVideoGame.Id }, newVideoGame);
-
+            var createdGame = await _videoGameService.AddAsync(newVideoGame);
+            return CreatedAtAction(nameof(GetVideoGameById), new { id = createdGame.Id }, createdGame);
         }
 
         [HttpPut("{id}")]
-        public IActionResult UpdateVideoGame(int id, VideoGame updatedVideoGame)
+        public async Task<IActionResult> UpdateVideoGame(int id, VideoGame updatedVideoGame)
         {
-            var game = videoGames.FirstOrDefault(g => g.Id == id);
-            if (game is null)
+            var success = await _videoGameService.UpdateAsync(id, updatedVideoGame);
+            if (!success)
                 return NotFound();
 
-            game.Title = updatedVideoGame.Title;
-            game.Publisher = updatedVideoGame.Publisher;
-            game.Developer = updatedVideoGame.Developer;
-            game.Platform = updatedVideoGame.Platform;
-
             return NoContent();
-
-
         }
 
         [HttpDelete("{id}")]
-        public IActionResult DeleteVideoGame(int id)
+        public async Task<IActionResult> DeleteVideoGame(int id)
         {
-            var game = videoGames.FirstOrDefault(g => g.Id == id);
-            if (game is null)
+            var success = await _videoGameService.DeleteAsync(id);
+            if (!success)
                 return NotFound();
 
-            videoGames.Remove(game);
             return NoContent();
-
         }
-
-
-
     }
-}  
+}

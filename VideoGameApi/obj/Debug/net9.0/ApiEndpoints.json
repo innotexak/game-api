@@ -1,5 +1,129 @@
 [
   {
+    "ContainingType": "VideoGameApi.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VideoGameApi.Model.UserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameApi.Model.TokenResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.AuthController",
+    "Method": "GetLoginUser",
+    "RelativePath": "api/Auth/me",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameApi.Model.ProfileDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.AuthController",
+    "Method": "UpdateUserProfile",
+    "RelativePath": "api/Auth/me",
+    "HttpMethod": "PATCH",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "VideoGameApi.Model.ProfileDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.AuthController",
+    "Method": "RefreshTokens",
+    "RelativePath": "api/Auth/refresh",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VideoGameApi.Model.RefreshTokenRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameApi.Model.TokenResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "VideoGameApi.Model.UserRegDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "VideoGameApi.Entities.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "VideoGameApi.Controllers.VideoGameController",
     "Method": "GetVideoGames",
     "RelativePath": "api/VideoGame",
@@ -9,7 +133,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[VideoGameApi.VideoGame, VideoGameApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[VideoGameApi.Entities.VideoGame, VideoGameApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,13 +153,13 @@
     "Parameters": [
       {
         "Name": "newVideoGame",
-        "Type": "VideoGameApi.VideoGame",
+        "Type": "VideoGameApi.Entities.VideoGame",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "VideoGameApi.VideoGame",
+        "Type": "VideoGameApi.Entities.VideoGame",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +185,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "VideoGameApi.VideoGame",
+        "Type": "VideoGameApi.Entities.VideoGame",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -86,7 +210,7 @@
       },
       {
         "Name": "updatedVideoGame",
-        "Type": "VideoGameApi.VideoGame",
+        "Type": "VideoGameApi.Entities.VideoGame",
         "IsRequired": true
       }
     ],
@@ -107,26 +231,5 @@
       }
     ],
     "ReturnTypes": []
-  },
-  {
-    "ContainingType": "VideoGameApi.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[VideoGameApi.WeatherForecast, VideoGameApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
   }
 ]
