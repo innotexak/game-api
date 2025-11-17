@@ -74,7 +74,7 @@
   {
     "ContainingType": "VideoGameApi.Controllers.AuthController",
     "Method": "RefreshTokens",
-    "RelativePath": "api/Auth/refresh",
+    "RelativePath": "api/Auth/refresh-token",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -122,6 +122,22 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "VideoGameApi.Controllers.EmailController",
+    "Method": "SendEmail",
+    "RelativePath": "api/Email/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "payload",
+        "Type": "VideoGameApi.Model.IEmailDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "VideoGameApi.Controllers.VideoGameController",

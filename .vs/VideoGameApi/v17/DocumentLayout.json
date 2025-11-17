@@ -3,28 +3,71 @@
   "WorkspaceRootPath": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\services\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\controllers\\videogamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\videogame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\videogameapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\configuration\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\configuration\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\model\\iemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\model\\iemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\innocent.akuh\\AppData\\Roaming\\Microsoft\\UserSecrets\\50b25961-cb72-4594-9447-c3a080b0b5c1\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\services\\videogameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\services\\videogameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\model\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\model\\profiledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\model\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\model\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|c:\\users\\innocent.akuh\\source\\repos\\videogameapi\\videogameapi\\model\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA7D28C3-39CB-406B-A849-B7DAF8691F58}|VideoGameApi\\VideoGameApi.csproj|solutionrelative:videogameapi\\model\\tokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +77,225 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "VideoGameApi\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "VideoGameApi\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\EmailService.cs",
+              "RelativeToolTip": "VideoGameApi\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T09:13:03.002Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VideoGameController.cs",
-              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\VideoGameController.cs",
-              "RelativeDocumentMoniker": "VideoGameApi\\Controllers\\VideoGameController.cs",
-              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\VideoGameController.cs",
-              "RelativeToolTip": "VideoGameApi\\Controllers\\VideoGameController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAADwv0IAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T09:12:38.936Z",
+              "WhenOpened": "2025-11-17T07:06:09.222Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VideoGame.cs",
-              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\VideoGame.cs",
-              "RelativeDocumentMoniker": "VideoGameApi\\VideoGame.cs",
-              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\VideoGame.cs",
-              "RelativeToolTip": "VideoGameApi\\VideoGame.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Services\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "VideoGameApi\\Services\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T09:06:50.228Z"
+              "WhenOpened": "2025-11-17T07:04:38.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "VideoGameApi\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:34:36.499Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "VideoGameApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:15:53.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Configuration\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Configuration\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Configuration\\ServiceExtensions.cs",
+              "RelativeToolTip": "VideoGameApi\\Configuration\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:16:33.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\IEmailDto.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Model\\IEmailDto.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\IEmailDto.cs",
+              "RelativeToolTip": "VideoGameApi\\Model\\IEmailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:03:53.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Program.cs",
               "RelativeDocumentMoniker": "VideoGameApi\\Program.cs",
               "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Program.cs",
               "RelativeToolTip": "VideoGameApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T08:58:27.472Z"
+              "WhenOpened": "2025-11-13T08:16:57.441Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VideoGameApi.http",
-              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\VideoGameApi.http",
-              "RelativeDocumentMoniker": "VideoGameApi\\VideoGameApi.http",
-              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\VideoGameApi.http",
-              "RelativeToolTip": "VideoGameApi\\VideoGameApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-10-30T08:49:06.62Z"
+              "DocumentIndex": 2,
+              "Title": "VideoGameController.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\VideoGameController.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Controllers\\VideoGameController.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Controllers\\VideoGameController.cs",
+              "RelativeToolTip": "VideoGameApi\\Controllers\\VideoGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:39:49.924Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "VideoGameApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "VideoGameApi\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Services\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "VideoGameApi\\Services\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:42:12.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\AppData\\Roaming\\Microsoft\\UserSecrets\\50b25961-cb72-4594-9447-c3a080b0b5c1\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\50b25961-cb72-4594-9447-c3a080b0b5c1\\secrets.json",
+              "ToolTip": "C:\\Users\\innocent.akuh\\AppData\\Roaming\\Microsoft\\UserSecrets\\50b25961-cb72-4594-9447-c3a080b0b5c1\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\50b25961-cb72-4594-9447-c3a080b0b5c1\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-30T08:48:04.68Z"
+              "WhenOpened": "2025-11-17T07:32:44.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Model\\UserDto.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\UserDto.cs",
+              "RelativeToolTip": "VideoGameApi\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:16:01.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "VideoGameApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\appsettings.Development.json",
+              "RelativeToolTip": "VideoGameApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-17T07:13:28.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VideoGameService.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\VideoGameService.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Services\\VideoGameService.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\VideoGameService.cs",
+              "RelativeToolTip": "VideoGameApi\\Services\\VideoGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:06:26.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Services\\AuthService.cs",
+              "RelativeToolTip": "VideoGameApi\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:06:15.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\ProfileDto.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Model\\ProfileDto.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\ProfileDto.cs",
+              "RelativeToolTip": "VideoGameApi\\Model\\ProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:16:06.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Model\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "VideoGameApi\\Model\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:16:05.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\TokenResponseDto.cs",
+              "RelativeDocumentMoniker": "VideoGameApi\\Model\\TokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\innocent.akuh\\source\\repos\\VideoGameApi\\VideoGameApi\\Model\\TokenResponseDto.cs",
+              "RelativeToolTip": "VideoGameApi\\Model\\TokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:16:04.518Z"
             }
           ]
         }

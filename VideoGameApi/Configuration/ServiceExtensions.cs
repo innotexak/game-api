@@ -10,6 +10,7 @@ namespace VideoGameApi.Configurations
         {
             services.AddScoped<IVideoGameService, VideoGameService>();
             services.AddScoped<IAuthService, AuthService>();
+            services.AddTransient<IEmailService, EmailService>();
            
         }
     }
